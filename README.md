@@ -22,7 +22,7 @@ Amo dançar, ver séries e ir as aulas de poledance :heart:
 
 I'm a front-end developer but I've already worked as an automated QA. I got my first job in the area in 2018 (but I study computer science / programming since 2015), I'm a computer technician and graduated in analysis and systems development.
 
-I love to dance, watch series and go to poledance classes: heart:
+I love to dance, watch series and go to poledance classes :heart:
 
 ---
 
