@@ -13,14 +13,15 @@
 
 ---
 
-Sou desenvolvedora front-end mas já atuei como QA automatizadora. Consegui meu primeiro emprego na área em 2018 (mas estudo informática/programação desde 2015), sou técnica em informática e graduada em análise e desenvolvimento de sistemas.  
+Sou desenvolvedora front-end mas já atuei como QA automatizadora. Consegui meu primeiro emprego na área em 2018 (mas estudo informática/programação desde 2015), sou técnica em informática, graduada em análise e desenvolvimento de sistemas e faço MBA de engenharia de software.  
 
 Amo dançar, ver séries e ir as aulas de poledance :heart:
 
 ---
 
 
-I'm a front-end developer but I've already worked as an automated QA. I got my first job in the area in 2018 (but I study computer science / programming since 2015), I'm a computer technician and graduated in analysis and systems development.
+I'm a front-end developer but I have already worked as an automated QA. I got my first job in the field in 2018 (but I study computer science / programming since 2015), I'm a computer technician, graduated in systems analysis and development and I do an MBA in software engineering.
+
 
 I love to dance, watch series and go to poledance classes :heart:
 
